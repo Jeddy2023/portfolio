@@ -27,10 +27,12 @@
   max-height: 250px;
   overflow-x: hidden;
 }
+.work__card:nth-child(2) .work__button{
+  display: none;
+}
 .work__card img{
   width: 100%;
   height: 200px;
-  object-fit: cover;
 }
 .work__mask {
   background: #6c6ce5;

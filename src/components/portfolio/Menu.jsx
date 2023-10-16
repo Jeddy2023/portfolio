@@ -1,4 +1,5 @@
 import Elitecar from "../../assets/elitecars.png"
+import Portfolio from "../../assets/portfolio.png";
 
 const Menu = [
   {
@@ -10,9 +11,10 @@ const Menu = [
   },
   {
     id: 2,
-    image: "",
-    title: "Fashion Store",
-    category: "HTML/CSS/javascript",
+    image: Portfolio,
+    title: "My personal portfolio website",
+    // category: "HTML/CSS/javascript",
+    category: "React js",
     link: ""
   }
 ];
