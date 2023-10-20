@@ -87,6 +87,13 @@
   opacity: 0;
   animation: bounce 1s ease infinite;
 }
+.work__button:after{
+  content: "Click";
+  color: #fff;
+  font-size: var(--h3-font-size);
+  position: absolute;
+  left: 3rem;
+}
 @keyframes bounce {
   0%,
   20%,
