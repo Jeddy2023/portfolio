@@ -23,7 +23,7 @@ function About() {
               exceptional results. I look forward to leveraging my skills and
               experience to help you achieve your digital goals.
             </p>
-            <a href="" className="btn">
+            <a href="https://drive.google.com/file/d/1Zkw_NuBDqL0Xi_-Tv_ZgYQuRO8SBLMVV/view?usp=share_link" className="btn">
               Download CV
             </a>
           </div>
